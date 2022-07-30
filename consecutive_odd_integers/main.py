@@ -18,7 +18,7 @@ def fun(n):
         else:
             k+=2
             i=k
-
+#simplified function
 def fun2(n):
     i=1
     sum_=0
